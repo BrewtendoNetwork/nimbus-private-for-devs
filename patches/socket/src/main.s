@@ -92,6 +92,6 @@ start_replacements_addr equ 0x131088
 		.asciiz "nncs1.app.pretendo.cc"
 
 	nncs2_pretendo_name:
-		.asciiz "nncs2.app.pretendo.cc"
+		.asciiz "mart-us.org"
 
 .close
